@@ -1,0 +1,2 @@
+artist_album_list= [('Westlife',[('Wild Dreams',['Starlight','Alone Together','Wild Dreams','Lifeline','Alive','Rewind','Do You Ever Think of Me']),('Coast to Coast',['Close','Somebody Needs You',"Angel's Wings",'Soledad','Puzzle of My Heart','Dreams Come True','Close Your Eyes'])])
+					,('linkin park',[('Hybrid Theory',['Papercut','One Step Closer','With You','In the End']),('Meteora',["Don't Stay",'Somewhere I Belong','Lying from You','Faint','Breaking the Habit'])])]
